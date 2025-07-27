@@ -1,0 +1,28 @@
+{
+    "studentData": [
+        {
+            "name": "Gift",
+            "level": "100",
+            "course": "Mathematics",
+            "id": 1
+        },
+        {
+            "name": "Pere",
+            "level": "200",
+            "course": "Computer Science",
+            "id": 2
+        },
+        {
+            "name": "Bigi",
+            "level": "300",
+            "course": "Geology",
+            "id": 3
+        },
+        {
+            "name": "Bolou",
+            "level": "400",
+            "course": "Physics",
+            "id": 4
+        }
+    ]
+}
